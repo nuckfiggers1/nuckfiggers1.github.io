@@ -8,3 +8,8 @@ body
 {
     background-color: #2a2a2c;
 }
+
+div{
+    max-width:400px;
+    margin: auto;
+}
