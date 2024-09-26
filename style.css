@@ -9,6 +9,12 @@ body
     background-color: #2a2a2c;
 }
 
+header 
+{
+color: white;
+}
+
+
 div{
     max-width:800px;
     margin: auto;
